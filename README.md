@@ -1,6 +1,4 @@
-### Bem vindo ao meu perfil do Github!
-
-## Olá, sou o José Henrique e essas são minhas redes sociais:
+### Olá, sou o José Henrique. Seja bem vindo ao meu perfil do Github!
 
 <div>
     <img src="https://github-readme-stats.vercel.app/api?username=josehenriquepg&show_icons=true&theme=dark"/>
@@ -17,6 +15,8 @@
     <img align="center" alt="node" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
     <img align="center" alt="vscode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 </div>
+
+## Redes Sociais:
 
 <div style="display: inline_block"><br/>
     <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
