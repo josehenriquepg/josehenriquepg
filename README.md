@@ -7,7 +7,7 @@
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)]()
 
 ![Henrique GitHub stats](https://github-readme-stats.vercel.app/api?username=josehenriquepg&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josehenriquepg&langs_count=8)](https://github.com/josehenriquepg/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josehenriquepg&langs_count=8&theme=dark)](https://github.com/josehenriquepg/github-readme-stats)
 
 ## Tecnologias que eu uso:
 
