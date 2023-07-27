@@ -8,19 +8,21 @@
 </div>
 <br/>
 
-<div style="display: inline_block">
+<div style="display: inline-block; justify-content: space-between">
     <img align="center" alt="typescript" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
     <img align="center" alt="nodejs" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />      
     <img align="center" alt="ruby" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original-wordmark.svg" />
     <img align="center" alt="rails" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain-wordmark.svg" />
     <img align="center" alt="python" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+    <img align="center" alt="mysql" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+    <img align="center" alt="php" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
     <img align="center" alt="vscode" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />            
 </div>
 <br/>
 
 ## Redes de Contato:
 
-<div style="display: inline_block">
+<div style="display: inline-block">
     <a href="https://www.linkedin.com/in/josehenriquepg/" target="_blank">
     <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </div>
