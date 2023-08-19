@@ -2,7 +2,7 @@
 
 ### I'm Jose Henrique and welcome to my Github profile!
 
-- 👨‍💻 I'm currently focusing on **Backend Development and Data Science**.
+- 👨‍💻 I'm currently focusing on **Backend Development and Data Science**;
 - 🌱 I’m currently studing **Oriented Object Programming, Data Structure and Database**.
 
 <div align="center">
