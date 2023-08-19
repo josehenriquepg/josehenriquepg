@@ -14,7 +14,10 @@
 
 ## 💻 Technologies:
 
-![JavaScript](https://img.shields.io/badge/javascript-000?style=for-the-badge&logo=javascript) ![TypeScript](https://img.shields.io/badge/typescript-000?style=for-the-badge&logo=typescript) ![React](https://img.shields.io/badge/react.js-000?style=for-the-badge&logo=react) ![NodeJS](https://img.shields.io/badge/node.js-000?style=for-the-badge&logo=node.js) ![Ruby](https://img.shields.io/badge/ruby-000.svg?style=for-the-badge&logo=ruby&logoColor=red) ![Rails](https://img.shields.io/badge/ruby%20on%20rails-000?style=for-the-badge&logo=ruby-on-rails&logoColor=red) ![Python](https://img.shields.io/badge/python-000?style=for-the-badge&logo=python) ![Flask](https://img.shields.io/badge/flask-000?style=for-the-badge&logo=flask) ![MySQL](https://img.shields.io/badge/mysql-000?style=for-the-badge&logo=mysql) ![PHP](https://img.shields.io/badge/php-000?style=for-the-badge&logo=php)
+![JavaScript](https://img.shields.io/badge/javascript-000?style=for-the-badge&logo=javascript) ![TypeScript](https://img.shields.io/badge/typescript-000?style=for-the-badge&logo=typescript) 
+![React](https://img.shields.io/badge/react.js-000?style=for-the-badge&logo=react) ![NodeJS](https://img.shields.io/badge/node.js-000?style=for-the-badge&logo=node.js) 
+![Ruby](https://img.shields.io/badge/ruby-000.svg?style=for-the-badge&logo=ruby&logoColor=red) ![Rails](https://img.shields.io/badge/ruby%20on%20rails-000?style=for-the-badge&logo=ruby-on-rails&logoColor=red) 
+![Python](https://img.shields.io/badge/python-000?style=for-the-badge&logo=python) ![Flask](https://img.shields.io/badge/flask-000?style=for-the-badge&logo=flask) 
 
 ## 📨 Contact Networks:
 
