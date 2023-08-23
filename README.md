@@ -1,4 +1,4 @@
-# 🖖 Hello, there!
+# 👋 Hello, there!
 
 ### I'm Jose Henrique and welcome to my Github profile!
 
