@@ -7,7 +7,7 @@
 - 💼 Available for work.
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josehenriquepg&langs_count=8&theme=dark&hide=html,css&hide_title=true&layout=compact&hide_border=false"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[josehenriquepg]&langs_count=8&theme=dark&hide=html,css&hide_title=true&layout=compact&hide_border=false"/>
 </div>
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=josehenriquepg&theme=dark&hide_border=false" />
