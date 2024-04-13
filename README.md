@@ -2,8 +2,8 @@
 
 ### I'm Jose Henrique and welcome to my Github profile!
 
-- 👨‍💻 I'm currently focusing on **Full Stack Development**;
-- 💼 Available for work.
+- 👨‍💻 I'm currently focusing on **Full Stack Development**.
+- 🎓 Analysis and systems development student.
 
 <div align="center">
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josehenriquepg&langs_count=8&theme=dark&hide=html,css&hide_title=true&layout=compact"/>
