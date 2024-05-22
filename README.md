@@ -15,8 +15,7 @@
 
 ## 💻 Technologies:
 
-![JavaScript](https://img.shields.io/badge/javascript-000?style=for-the-badge&logo=javascript) ![TypeScript](https://img.shields.io/badge/typescript-000?style=for-the-badge&logo=typescript) 
-![Angular](https://img.shields.io/badge/angular-000?style=for-the-badge&logo=angular) ![NodeJS](https://img.shields.io/badge/node.js-000?style=for-the-badge&logo=node.js) ![Go](https://img.shields.io/badge/golang-000?style=for-the-badge&logo=golang) 
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,angular,go,postgres,mysql,mongodb,git&theme=dark)](https://skillicons.dev)
 
 ## 📨 Contact Networks:
 
