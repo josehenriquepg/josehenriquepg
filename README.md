@@ -4,6 +4,7 @@
 
 - 👨‍💻 I'm currently focusing on **Full Stack Development**.
 - 🎓 Analysis and systems development student.
+- 🌱 Currently focusing on **Angular** and **Golang**. 
 
 <div align="center">
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josehenriquepg&langs_count=8&theme=dark&hide=html,css&hide_title=true&layout=compact"/>
@@ -15,9 +16,7 @@
 ## 💻 Technologies:
 
 ![JavaScript](https://img.shields.io/badge/javascript-000?style=for-the-badge&logo=javascript) ![TypeScript](https://img.shields.io/badge/typescript-000?style=for-the-badge&logo=typescript) 
-![React](https://img.shields.io/badge/react.js-000?style=for-the-badge&logo=react) ![NodeJS](https://img.shields.io/badge/node.js-000?style=for-the-badge&logo=node.js) 
-![Ruby](https://img.shields.io/badge/ruby-000.svg?style=for-the-badge&logo=ruby&logoColor=red) ![Rails](https://img.shields.io/badge/ruby%20on%20rails-000?style=for-the-badge&logo=ruby-on-rails&logoColor=red) 
-![Python](https://img.shields.io/badge/python-000?style=for-the-badge&logo=python) ![Flask](https://img.shields.io/badge/flask-000?style=for-the-badge&logo=flask) 
+![Angular](https://img.shields.io/badge/angular-000?style=for-the-badge&logo=angular) ![NodeJS](https://img.shields.io/badge/node.js-000?style=for-the-badge&logo=node.js) ![Go](https://img.shields.io/badge/golang-000?style=for-the-badge&logo=golang) 
 
 ## 📨 Contact Networks:
 
