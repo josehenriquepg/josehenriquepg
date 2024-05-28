@@ -1,16 +1,12 @@
-# 👋 Hello, there!
+## 👋 Hello, there!
 
-### I'm Jose Henrique and welcome to my Github profile!
+#### I'm Jose Henrique and welcome to my Github profile!
 
-- 👨‍💻 I'm currently focusing on **Back-end Development**.
+- 👨‍💻 I'm currently focusing on **Back-end Development** with **NodeJS** and **Golang**.
 - 🎓 Analysis and systems development student.
-- 🌱 Currently focusing on **NodeJS** and **Golang**. 
 
 <div align="center">
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josehenriquepg&langs_count=8&theme=dark&hide=html,css&hide_title=true&layout=compact"/>
-</div>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=josehenriquepg&theme=dark" />
 </div>
 
 ## 💻 Technologies:
