@@ -12,4 +12,4 @@ I'm a full-stack developer dedicated to built projects from the ground up, from 
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,angular,nodejs,go,postgres,mysql,mongodb,git&theme=dark)](https://skillicons.dev)
 
-[![Top Langs]("https://github-readme-stats.vercel.app/api/top-langs/?username=josehenriquepg&theme=dark&hide=html,css&layout=compact")](https://github.com/josehenriquepg/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josehenriquepg&langs_count=8&theme=dark&hide=html,css&hide_title=true&layout=compact"/>
