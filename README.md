@@ -13,6 +13,6 @@ I'm a full-stack developer dedicated to built projects from the ground up, from 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,go,python,ruby,ts,angular,nodejs,nest,postgres,mysql,mongodb,git&theme=dark)](https://skillicons.dev)
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josehenriquepg&langs_count=8&theme=dark&hide=html,css&hide_title=true&layout=compact&border_radius=15"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josehenriquepg&langs_count=8&theme=dark&hide=html,css&hide_title=true&layout=compact&border_radius=15&hide_border=true"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=josehenriquepg&theme=github-dark-blue&hide_border=true&border_radius=15&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D" />
 </div>
