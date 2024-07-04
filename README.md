@@ -17,5 +17,5 @@ I'm a full-stack developer dedicated to built projects from the ground up, from 
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=josehenriquepg&theme=github-dark&hide_border=true&border_radius=15&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=josehenriquepg&theme=github-dark&hide_border=true&border_radius=15&date_format=j%2Fn%5B%2FY%5D"/>
 </div>
