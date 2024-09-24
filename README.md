@@ -10,7 +10,7 @@ I'm a full-stack developer dedicated to built projects from the ground up, from 
 
 ### 🧰 Languages and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,go,python,ruby,ts,angular,nodejs,nest,postgres,mysql,mongodb,git&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,java,go,ts,angular,nodejs,nest,postgres,mysql,mongodb,git&theme=dark)](https://skillicons.dev)
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josehenriquepg&langs_count=8&theme=dark&hide=html,css&layout=compact&border_radius=15&hide_border=true"/>
