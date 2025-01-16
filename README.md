@@ -10,7 +10,7 @@ Desenvolvedor de Software Backend, focado em **Java** com **Spring Boot**. Gradu
 
 ### 📚 Conhecimentos
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,java,springboot,go,postgres,mysql,mongodb,git&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,java,spring,go,postgres,mysql,mongodb,git&theme=dark)](https://skillicons.dev)
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josehenriquepg&langs_count=8&theme=dark&hide=html,css&layout=compact&border_radius=15&hide_border=true"/>
