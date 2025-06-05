@@ -1,6 +1,7 @@
 # 🐱‍👓 José Henrique
 
-  - Desenvolvedor de Software Backend, focado em **Java** com **Spring Boot**. 
+  - Desenvolvedor de Software Backend, focado em **Java** com **Spring Boot** e **Javascript** com **NodeJS**.
+  - Técnico em Informática. 
   - Graduando em Analise e Desenvolvimento de Sistemas.
   - Inglês(B1).
 
